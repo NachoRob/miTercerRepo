@@ -19,5 +19,5 @@ Si los cambios afectan a la interfaz de usuario, por favor adjunta capturas de p
 - [ ] Todos los tests pasan correctamente.
 - [ ] He documentado adecuadamente los cambios en el código.
 
-###ß Otros Comentarios
+### Otros Comentarios
 Agrega cualquier otra información relevante aquí.
